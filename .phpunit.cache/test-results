@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"ApiClientTest::testShowPostcodeData":0.032,"ApiClientTest::testShowPostcodesData":0.016,"ApiClient2Test::testShowPost":0.944,"ApiClient2Test::testAddPost":0.247,"ApiClient2Test::testDeletePost":0.245,"ApiClient2Test::testUpdatePost":0.262,"ApiClient2Test::testReplacePost":0.268}}
